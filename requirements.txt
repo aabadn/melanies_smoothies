@@ -1,5 +1,5 @@
 # requirements.txt
-python==3.8.0
+python==3.11
 snowflake-connector-python
 snowflake-snowpark-python
-steamlit==1.31.1
+steamlit==1.35.0
